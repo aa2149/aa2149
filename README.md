@@ -11,7 +11,7 @@ I'm a driven computer science graduate with a strong foundation in AI, game deve
 
 🎮 **Passion for Game Development:**  
 I love creating engaging gaming experiences with a focus on mechanics, design, and adaptive AI. All the games I’ve developed have been **team-based projects**, where I contributed to mechanics, design, and AI systems:
-- **Alen: Lost and Hunted** *(Itch.io)*: A survival game with AI-driven gameplay and immersive design  
+- **Alen: Lost and Hunted** *(Itch.io)*: It is a unique turn-based two-player Unity game that blends storytelling, stealth, and a collection of wildly fun mini-games. 
   🔗 [Play the game](https://areejahmed2149.itch.io/alen-lost-and-hunted-playtesting)
 - **Titan’s Frontier** *(Godot)*: An MMO-style educational game recognized in the NASA Space Apps Challenge  
   🔗 [Play the game](https://ziyaan.itch.io/titans-fontier)
