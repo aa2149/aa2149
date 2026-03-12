@@ -5,7 +5,6 @@
 💻 AI Engineer | Agentic Workflows | Game Developer | User-Centered Systems  
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/areej-ahmed-868272213  
-🔗 **GitHub:** https://github.com/aa2149  
 
 ---
 
