@@ -4,7 +4,6 @@
 📍 Dubai, UAE | Open to global & remote opportunities  
 💻 AI Engineer | Agentic Workflows | Game Developer | User-Centered Systems  
 
-[🔗 **Research Publication at ICAMAC 2025 | Dynamic Scene Understanding**](https://scholar.google.com/citations?hl=en&user=I6tHCo8AAAAJ) 
 ---
 
 ## 🚀 About Me
@@ -77,7 +76,7 @@ Narrative-driven immersive experience with adaptive mechanics.
 
 ## 💼 Featured Projects & Research
 
-### 🎮 Dynamic Scene Understanding  
+### 🎮 [Dynamic Scene Understanding](https://scholar.google.com/citations?hl=en&user=I6tHCo8AAAAJ)   
 Proposed a hybrid feature-fusion pipeline combining spatial (ResNet-101) and spatiotemporal descriptors with optical-flow-based keyframe selection.  
 
 **Results:**
