@@ -5,9 +5,6 @@
 💻 AI Engineer | Agentic Workflows | Game Developer | User-Centered Systems  
 
 [🔗 **Research Publication at ICAMAC 2025 | Dynamic Scene Understanding**](https://scholar.google.com/citations?hl=en&user=I6tHCo8AAAAJ) 
-
-[🔗 **LinkedIn**](https://www.linkedin.com/in/areej-ahmed-868272213)
-
 ---
 
 ## 🚀 About Me
