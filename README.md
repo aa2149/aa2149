@@ -4,8 +4,9 @@
 📍 Dubai, UAE | Open to global & remote opportunities  
 💻 AI Engineer | Agentic Workflows | Game Developer | User-Centered Systems  
 
-🔗 **Research Publication at ICAMAC 2025 | Dynamic Scene Understanding** https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AF9nlQuefgfOu5ac2BYmmqyWD23qlTQzlEze5yAfuOvg1HUG_6fhmsKCY9Nr1OlW2ISTGGb50lj_y2RTbJofPw&user=I6tHCo8AAAAJ  
-🔗 **LinkedIn:** https://www.linkedin.com/in/areej-ahmed-868272213  
+[🔗 **Research Publication at ICAMAC 2025 | Dynamic Scene Understanding**](https://scholar.google.com/citations?hl=en&user=I6tHCo8AAAAJ) 
+
+[🔗 **LinkedIn**](https://www.linkedin.com/in/areej-ahmed-868272213)
 
 ---
 
